@@ -7,14 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/roshan13ghimire/School_website.git"
-  },
+  
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/roshan13ghimire/School_website/issues"
-  },
-  "homepage": "https://github.com/roshan13ghimire/School_website#readme"
+  
+ 
 }
