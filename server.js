@@ -15,5 +15,5 @@ var server = http.createServer(function(req, res) {
     res.end(JSON.stringify(json_data));
     }
 );
-server.listen(8080);
+server.listen(process.env.PORT||3000);
 console.log('Server running at http://localhost:8080/');
